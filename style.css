@@ -283,6 +283,36 @@ section.contato h1{
 section.contato form{
     width: 100%;
 }
+.buttonScrollDiv{
+    position: relative;
+    bottom: 0;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+
+}
+.btnScroll{
+    position: static;
+    bottom: 50px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    border: none;
+    color: #fff;
+    background-color: #0f3fd3;
+    cursor: pointer;
+    margin: 10px;
+    transition: all 1s;
+}
+.btnScroll{
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btnScroll:hover{
+    transform: scale(1.1);
+}
 .contato input[type=text],
 .contato input[type=email]
 {

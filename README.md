@@ -8,11 +8,13 @@ como projeto final do curso para prática de todo conteúdo apresentado.
 
 ## Melhorias e alterações
 
-Adicionado alguns efeitos de hover e focus e a estilização do menu mobile totalmente feita
-por mim pois no projeto não tinha uam estilização definida para o mobile. 
+● Adicionado alguns efeitos de hover e focus e a estilização do menu mobile totalmente feita
+por mim pois no projeto não tinha uam estilização definida para o mobile
 
-## Link 
-Link do projeto:
+● Adicionado botão com funcionalidade de Scroll.
+
+## Link do projeto
+Link: https://brenor-agenciabold.netlify.app/
 
 ## Autores
 
