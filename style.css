@@ -96,6 +96,7 @@ section.porque-nos >.center >p{
 .diferenciais{
     display: flex;
     margin-top: 50px;
+    padding-bottom: 50px;
     
 }
 .box-diferenciais{
